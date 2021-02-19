@@ -3,8 +3,7 @@
 A new Flutter application.
 
 # Demo
-<img height="400px" src="https://user-images.githubusercontent.com/59611415/108496476-1a017800-72d0-11eb-9dfc-b3d4c0139a19.gif)">
-
+<img src="https://user-images.githubusercontent.com/59611415/108498608-20452380-72d3-11eb-93ab-c16f5ed012e2.gif" height =400>
 
 # Android Screen
 <img height="320px" src="https://user-images.githubusercontent.com/59611415/108496715-75cc0100-72d0-11eb-9968-8534c1cdb69d.png"> <img height="320px" src="https://user-images.githubusercontent.com/59611415/108496771-8aa89480-72d0-11eb-9b00-40394c58e692.png"> <img height="320px" src="https://user-images.githubusercontent.com/59611415/108496826-9eec9180-72d0-11eb-9511-5c7c5df2359c.png">
